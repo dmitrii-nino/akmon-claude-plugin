@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.akmon/humanizer",
+  "title": "Akmon Humanizer",
+  "description": "Humanize and paraphrase text so it reads natural. Remote MCP server by Akmon.",
+  "version": "1.0.0",
+  "websiteUrl": "https://akmon.app/support/#claude-chatgpt",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.akmon.app/mcp"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "akmon",
+  "displayName": "Akmon",
+  "version": "1.0.0",
+  "description": "Humanize and paraphrase text with Akmon: connector plus a skill that routes rewrite requests to it.",
+  "author": { "name": "Akmon", "url": "https://akmon.app" },
+  "homepage": "https://akmon.app/support/#claude-chatgpt",
+  "privacyPolicyUrl": "https://akmon.app/privacy/",
+  "license": "MIT"
+}

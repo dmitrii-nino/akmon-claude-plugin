@@ -1,0 +1,13 @@
+{
+  "name": "akmon",
+  "description": "Akmon plugins for Claude Code",
+  "owner": { "name": "Akmon", "url": "https://akmon.app" },
+  "plugins": [
+    {
+      "name": "akmon",
+      "source": "./",
+      "description": "Humanize and paraphrase text with Akmon: connector plus a skill that routes rewrite requests to it.",
+      "homepage": "https://akmon.app/support/#claude-chatgpt"
+    }
+  ]
+}
