@@ -5,6 +5,7 @@
   "description": "Humanize and paraphrase text with Akmon: connector plus a skill that routes rewrite requests to it.",
   "author": { "name": "Akmon", "url": "https://akmon.app" },
   "homepage": "https://akmon.app/support/#claude-chatgpt",
+  "icon": "./assets/icon.png",
   "privacyPolicyUrl": "https://akmon.app/privacy/",
   "license": "MIT"
 }
